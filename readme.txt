@@ -11,3 +11,5 @@ Git is free software distributed under the GPL.
 Git has a muatale index called stage!
 
 Git tracks changes.
+
+my stupid boss still prefers SVN.

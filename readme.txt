@@ -12,4 +12,4 @@ Git has a muatale index called stage!
 
 Git tracks changes.
 
-my stupid boss still prefers SVN.
+
